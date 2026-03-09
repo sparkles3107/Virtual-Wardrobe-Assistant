@@ -1,0 +1,9 @@
+# ninja log v6
+20	475	7947815640766964	CMakeFiles/virtual_wardrobe_qt.dir/src/FileManager.cpp.obj	81216db5b058d070
+35	479	7947815640932226	CMakeFiles/virtual_wardrobe_qt.dir/src/WardrobeManager.cpp.obj	a5ca7d62a2e1b6e7
+13	516	7947815640766964	CMakeFiles/virtual_wardrobe_qt.dir/src/ClothingItem.cpp.obj	707133627d98a347
+30	545	7947815640932226	CMakeFiles/virtual_wardrobe_qt.dir/src/UserProfile.cpp.obj	56865de7a39042c5
+25	632	7947815640766964	CMakeFiles/virtual_wardrobe_qt.dir/src/RecommendationEngine.cpp.obj	b2c5ef3d20338b5c
+4	1869	7947815640609271	CMakeFiles/virtual_wardrobe_qt.dir/qt/main.cpp.obj	c7750e66316e80b1
+8	1988	7947815640609271	CMakeFiles/virtual_wardrobe_qt.dir/qt/MainWindow.cpp.obj	3b40acc0f8f59622
+1988	2181	7947815660522816	virtual_wardrobe_qt.exe	ffb08e6b99433f93

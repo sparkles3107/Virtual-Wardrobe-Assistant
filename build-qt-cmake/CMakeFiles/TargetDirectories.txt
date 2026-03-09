@@ -1,0 +1,3 @@
+C:/Users/riya agarwal/dsa/classroom/New folder/build-qt-cmake/CMakeFiles/virtual_wardrobe_qt.dir
+C:/Users/riya agarwal/dsa/classroom/New folder/build-qt-cmake/CMakeFiles/edit_cache.dir
+C:/Users/riya agarwal/dsa/classroom/New folder/build-qt-cmake/CMakeFiles/rebuild_cache.dir
