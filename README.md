@@ -52,3 +52,9 @@ You can open either:
 - `virtual_wardrobe_qt.pro`
 
 Then choose your Desktop Qt kit and build/run.
+
+
+MEMBERS-
+RIYA AGARWAL
+SNEHA SINGH
+VAIBHAVI SHUKLA
