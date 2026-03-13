@@ -1,4 +1,4 @@
-1|pink top|top|pink|trendy|party|solid|short
-2|black skirt|bottom|black|smart-casual|party|solid|short
-3|black bow shirt|top|black|formal|office|solid|regular
-4|pants|bottom|brown|formal|office|solid|regular
+5|tshirt lemon|top|yellow|casual|casual|printed|regular
+6|shorts blue denim|bottom|blue|trendy|casual|solid|short
+7|pants black|bottom|black|formal|office|solid|regular
+8|pink blouse|top|pink|formal|office|solid|regular

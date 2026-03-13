@@ -220,14 +220,15 @@ void MainWindow::recommendOutfit() {
     }
 
     const QString text = QString("Top: %1 (%2, %3)\nBottom: %4 (%5, %6)\nScore: %7\nWhy: %8")
-                             .arg(fromStd(rec.top.getName()))
-                             .arg(fromStd(rec.top.getColor()))
-                             .arg(fromStd(rec.top.getStyle()))
-                             .arg(fromStd(rec.bottom.getName()))
-                             .arg(fromStd(rec.bottom.getColor()))
-                             .arg(fromStd(rec.bottom.getStyle()))
-                             .arg(rec.score)
-                             .arg(fromStd(rec.reason));
+                             .arg(fromStd(rec.top.getName()),
+                                  fromStd(rec.top.getColor()),
+                                  fromStd(rec.top.getStyle()),
+                                  fromStd(rec.bottom.getName()),
+                                  fromStd(rec.bottom.getColor()),
+                                  fromStd(rec.bottom.getStyle()),
+                                  QString::number(rec.score),
+                                  fromStd(rec.reason));
 
     resultLabel->setText(text);
 }
+

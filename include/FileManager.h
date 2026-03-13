@@ -22,4 +22,4 @@ public:
     bool saveUserProfile(const UserProfile &profile) const;
 };
 
-#endif
+#endif                                                                 

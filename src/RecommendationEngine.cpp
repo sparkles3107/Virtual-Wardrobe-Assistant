@@ -1,6 +1,5 @@
 ﻿#include "RecommendationEngine.h"
 
-#include <algorithm>
 #include <climits>
 #include <sstream>
 #include <unordered_set>

@@ -1,0 +1,3 @@
+1|top|top|pink|formal|office|solid|regular
+2|trouser|bottom|black|formal|casual|solid|long
+3|skirt|bottom|pink|trendy|casual|horizontal|short
