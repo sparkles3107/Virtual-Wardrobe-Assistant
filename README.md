@@ -54,7 +54,12 @@ You can open either:
 Then choose your Desktop Qt kit and build/run.
 
 
-MEMBERS-
+MEMBERS-   
+
 RIYA AGARWAL
+
+
 SNEHA SINGH
+
+
 VAIBHAVI SHUKLA
